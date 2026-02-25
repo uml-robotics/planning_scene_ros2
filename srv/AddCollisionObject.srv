@@ -1,0 +1,11 @@
+# Request: position (x,y,z) and box dimensions (l,w,h) in meters
+float64 x
+float64 y
+float64 z
+float64 l
+float64 w
+float64 h
+---
+# Response
+bool success
+string message
