@@ -11,11 +11,14 @@
   <buildtool_depend>rosidl_default_generators</buildtool_depend>
 
   <depend>rclcpp</depend>
+  <depend>ament_index_cpp</depend>
   <depend>moveit_ros_planning_interface</depend>
   <depend>moveit_msgs</depend>
   <depend>shape_msgs</depend>
   <depend>geometry_msgs</depend>
   <depend>rosidl_default_runtime</depend>
+  <depend>yaml_cpp_vendor</depend>
+  <depend>yaml-cpp</depend>
 
   <member_of_group>rosidl_interface_packages</member_of_group>
 
